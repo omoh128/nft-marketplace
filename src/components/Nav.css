@@ -1,0 +1,39 @@
+.logo{
+   width: 42px;
+}
+.nav{
+   padding-left: 120px;
+   display: flex;
+   justify-content:initial;
+   align-items: center;
+   height:100px;
+
+}
+.logo img{
+   display: flex;
+   justify-content: flex-end;
+   margin-left: 100px;
+}
+.nav ul{
+   list-style: none;
+   margin-left: 4rem;
+}
+
+.nav ul li {
+   display: inline;
+   padding-left: 40px;
+   font-weight: 700;
+   font-size: 1.5rem;
+  
+}
+
+
+
+.nav ul li:hover{
+   color: black;
+   
+}
+.login{
+   display: flex;
+   
+}
